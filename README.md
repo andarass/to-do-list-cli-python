@@ -1,5 +1,4 @@
 # 📝 To-Do List CLI App
-
 Aplikasi manajemen tugas berbasis Command Line Interface (CLI) menggunakan Python/Python3.
 
 ## 🚀 Fitur
@@ -10,7 +9,7 @@ Aplikasi manajemen tugas berbasis Command Line Interface (CLI) menggunakan Pytho
 - Tandai tugas selesai
 - Penyimpanan data menggunakan JSON
 
-## 🛠️ Teknologi
+## 🛠️ Tech Stack
 - Python/Python3
 - JSON (untuk penyimpanan data)
 
@@ -20,3 +19,13 @@ Aplikasi manajemen tugas berbasis Command Line Interface (CLI) menggunakan Pytho
 2. Jalankan perintah:
    ```bash
    python/python3 main.py
+
+## 📚 Apa yang Dipelajari
+- Logika CRUD
+- Struktur Data Python (list & dictionary)
+- File handling
+- Error handling
+- Clean code dengan functions
+
+## 👨‍💻 Author
+GitHub: @andarass
