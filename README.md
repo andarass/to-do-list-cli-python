@@ -26,7 +26,7 @@ Aplikasi manajemen tugas berbasis Command Line Interface (CLI) menggunakan Pytho
 - Error handling
 - Clean code dengan functions
 
-## Screenshot Program
+## 💻 Screenshot Program
 ![image](gambar-1.png)
 ![image](gambar-2.png)
 ![image](gambar-3.png)
