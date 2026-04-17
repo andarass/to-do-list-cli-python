@@ -14,7 +14,6 @@ Aplikasi manajemen tugas berbasis Command Line Interface (CLI) menggunakan Pytho
 - JSON (untuk penyimpanan data)
 
 ## ▶️ Cara Menjalankan
-
 1. Clone repository
 2. Jalankan perintah:
    ```bash
@@ -26,6 +25,11 @@ Aplikasi manajemen tugas berbasis Command Line Interface (CLI) menggunakan Pytho
 - File handling
 - Error handling
 - Clean code dengan functions
+
+## Screenshot Program
+![image](gambar-1.png)
+![image](gambar-2.png)
+![image](gambar-3.png)
 
 ## 👨‍💻 Author
 GitHub: @andarass
